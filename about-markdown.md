@@ -13,15 +13,15 @@ we can have until h6
  *italicized 
 ## For images
 ![alt tex] (image.jpg)
-## Link:
+## Link
 [linkname] (www.expl.com)
 ## Lists:
-there are two types; ordered and unordered lists:
+there are two types; ordered and unordered lists
 ### Ordered list
 1.item
 2.Item
 3.Item
-### Unordered list:
+### Unordered list
 -item
 -item
 -item
