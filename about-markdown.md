@@ -22,6 +22,6 @@ there are two types; ordered and unordered lists:
 2.Item
 3.Item
 ### Unordered list:
-- item
+-item
 -item
 -item
