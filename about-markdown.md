@@ -9,19 +9,19 @@ we use
 - **Less important** ### h3
 we can have until h6
 ## For text style
-- **bold text; **
- - *italicized; * 
+- to make the text bold you use **
+- to italiciz you use * 
 ## For images
-![alt tex] (image.jpg)
+f you want to insert an image you use ![alt tex] (image.jpg)
 ## Link
 [linkname] (www.expl.com)
 ## Lists:
 there are two types; ordered and unordered lists
 ### Ordered list
-1.item
-2.Item
-3.Item
+- 1.item
+- 2.Item
+- 3.Item
 ### Unordered list
--item
--item
--item
+- -item
+- -item
+- -item
