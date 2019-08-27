@@ -4,13 +4,13 @@ this allows the presentation of titles of different importance. they can also be
 here are some examples
 ## For titles
 we use
-**Important**: # h1
-**Important**: ## h2
-**Less important** ### h3
+- **Important**: # h1
+- **Important**: ## h2
+- **Less important** ### h3
 we can have until h6
 ## For text style
-**bold text
- *italicized 
+- **bold text; **
+ - *italicized; * 
 ## For images
 ![alt tex] (image.jpg)
 ## Link
