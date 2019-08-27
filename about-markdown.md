@@ -12,7 +12,7 @@ we can have until h6
 - to make the text bold you use **
 - to italiciz you use * 
 ## For images
-f you want to insert an image you use ![alt tex] (image.jpg)
+If you want to insert an image you use **![alt tex] (image.jpg)
 ## Link
 [linkname] (www.expl.com)
 ## Lists:
