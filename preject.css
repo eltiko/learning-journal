@@ -1,0 +1,29 @@
+header {
+    background-color: #B9E0FF; 
+    height: 200px;
+}
+h1 {
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+    font-size: 40px;
+    color: blue
+}
+li {
+    display: inline-block;
+    margin: 40px;
+text-align: center; 
+}
+#ul2 {
+        float: right; 
+}
+#ul1 {
+    float: left; 
+}
+
+main {
+    background-color: #2989FF
+}
+p {
+    color: hsl(404, 95, 44,1)
+}
