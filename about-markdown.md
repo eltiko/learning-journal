@@ -25,3 +25,20 @@ there are two types; ordered and unordered lists
 - -item
 - -item
 - -item
+
+
+# How computers work? 
+Computers are everywhere now.
+we use them everywhere
+in our **cars, offices, even on us** (watches, telephones)
+## what makes a computer , a computer 
+A computer has three activities; enter, process, record and exit.
+in fact what emerges is the result of the information given to it.
+this is possible thanks to two components; software and hardwares.
+The hardwares are cuicuits, plugs speakers .... that you can see inside the machine
+Software is against running programs in the machine.
+It is possible to install multiple or remove them.
+These are *games, browsers and applications.
+## note 
+It should be noted that hardwares can run more programs simultaneously however this can cause a slowdown.
+Moreover, you have to know that the machine is not intelligent, it only obeys precise commands.
