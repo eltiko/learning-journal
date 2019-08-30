@@ -39,6 +39,10 @@ we use them everywhere
 in our **cars, offices, even on us** (watches, telephones)
 ## what makes a computer , a computer 
 
+
+
+
+
 A computer has three activities; enter, process, record and exit.
 in fact what emerges is the result of the information given to it.
 this is possible thanks to two components; software and hardwares.
@@ -82,3 +86,35 @@ by example;
 **file.txt** - a plain text file.
 
 **file.png, file.gif, file.jpg** - an image.
+
+
+
+# Revisions and the Cloud
+Git is a DVCS file storage. editable projects are saved here. Thus, it follows the different modifications on the commits so that there is no loss of information.
+Files in Git can reside in three main states: engaged, edited, and staged.
+
+**engaged**
+Data is stored securely in a local database
+
+**Amended**
+The file has been modified but not saved in the database.
+
+**Staging**
+
+Report the modified version of a file to validate in the next snapshot
+to use git just download it, install it and configure it by choosing a default text editor.
+for example; to configure a text editor on mac on tape;
+
+*$ git config --global core.editor emacs*
+
+Using the terminal, we can then deploy the git files, see their status, save the changes ...
+
+the following commands allow;
+
+## git status:
+To determine the status of the files, use the command
+## git add; Add a file name
+## git commit -m "change made x, y, z"
+To validate
+## push git;
+to transfer changes to the cloud
